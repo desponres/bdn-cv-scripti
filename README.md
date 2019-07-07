@@ -2,16 +2,18 @@
 Merhaba arkadaşlar, daha önce blog, itiraf ve film scripti paylaşmıştım. Neden Resume/CV scripti paylaşmayayım :) Sizlere codeigniter ile yazmış olduğum Resume/CV scriptini ücretsiz olarak veriyorum :)
 
 # Yönetim paneli özellikleri
--Yazılar Sayfası (Ekle - Düzenle - Sil)
--Kategoriler Sayfası (Ekle - Düzenle - Sil)
 -Yöneticiler Sayfası (Ekle - Düzenle - Sil)
--Sayfalar Sayfası (Ekle - Düzenle - Sil)
--Yorumlar Sayfası (Düzenle - Sil)
+-Hakkımda Sayfası (Düzenle)
+-Deneyimlerim Sayfası (Ekle - Düzenle - Sil)
+-Eğitim Sayfası (Ekle - Düzenle - Sil)
+-Yeteneklerim Sayfası (Düzenle - Sil)
+-İlgi Alanlarım Sayfası (Düzenle - Sil)
+-Sertifikalarım ve Ödüllerim Sayfası (Düzenle - Sil)
 -İletişim Mesajları Sayfası (Görüntüle - Sil)
 -Genel Ayarlar (Düzenle)
 
 # Açıklama
-Resume/CV sitesi açmak isteyenlere tamamen açık kaynak kodlu uygun bir scripttir. Anasayfa kısmında StartBootstrap tarafından ücretsiz yayınlanan "Resume" kullanılmıştır. Admin paneli kısmında StartBootstrap tarafından ücretsiz yayınlanan "SB Admin" kullanılmıştır. Kullanımı son derece basit ve kolaydır.
+Resume/CV sitesi açmak isteyenlere tamamen açık kaynak kodlu uygun bir scripttir. Anasayfa kısmında StartBootstrap tarafından ücretsiz yayınlanan "Blog Home" ve "Blog Post" kullanılmıştır. Admin paneli kısmında StartBootstrap tarafından ücretsiz yayınlanan "SB Admin" kullanılmıştır. Kullanımı son derece basit ve kolaydır. Anasayfada gösterilecek olan yazıların sayısını "Genel Ayarlar" kısmından "Anasayfada görünecek olan yazı sayısı" bölümünü doldurmaları yeterlidir.
 
 # Yönetim paneli bilgileri (demo panel bilgileri için bu adresten iletişime geçebilirsiniz: http://desponres.ml)
 website.com/admin
@@ -38,4 +40,9 @@ bu alana scriptin kurulu olduğu dizini yazın.
   
   # Eğer kurulumda bir sorun çıkarsa veya yardımcı olabileceğim bir konu olursa bana sosyal medya adreslerimden ve http://desponres.ml adresinden ulaşabilirsiniz.
   
-  Not: Bu script tamamen açık kaynak ve ücretsizdir. Kendinize göre düzenleyebilirsiniz.
+[B][U]NOTLAR[/U][/B]
+[B]Not: Bu script tamamen açık kaynak ve ücretsizdir. Kendinize göre düzenleyebilirsiniz. Ticari amaçlı olarak çoğaltılması ve paylaşılması yasaktır..![/B]
+[B]Notlar
+ Not 1: Eğer kurulumda bir sorun çıkarsa veya yardımcı olabileceğim bir konu olursa bana sosyal medya adreslerimden ulaşabilirsiniz.(Script üzerinde düzenleme - ekleme vs. yapmamaktayım.)
+ Not 2: Bu script tamamen açık kaynak ve ücretsizdir. Kendinize göre düzenleyebilirsiniz.
+ Not 4: Script kurulumundan sonra admin paneli veya diğer sayfalarda 404 hatası alıyorsanız gizli dosyaları görünür yapıp .htaccess dosyalarını tekrar ftp programı ile sunucuya atmayı unutmayınız[/B]
