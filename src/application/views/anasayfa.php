@@ -222,14 +222,14 @@
   </div>
 
   <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo base_url("assets/vendor/jquery/jquery.min.js"); ?>"></script>
+  <script src="<?php echo base_url("assets/vendor/bootstrap/js/bootstrap.bundle.min.js"); ?>"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="<?php echo base_url("assets/vendor/jquery-easing/jquery.easing.min.js"); ?>"></script>
 
   <!-- Custom scripts for this template -->
-  <script src="js/resume.min.js"></script>
+  <script src="<?php echo base_url("assets/js/resume.min.js"); ?>"></script>
   <script src="<?php echo base_url("assets/js/sweetalert2.all.js"); ?>"></script>
   <?php $this->load->view("admin/alert"); ?>
 </body>
