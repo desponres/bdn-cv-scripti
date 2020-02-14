@@ -55,10 +55,10 @@ $route['translate_uri_dashes'] = FALSE;
 //
 $route['sitemap\.xml'] = "Sitemap/index";
 //
-$route['admin'] = 'admin/Admin/index';
-$route['admin/index'] = 'admin/Admin/index';
-$route['admin/giris'] = 'admin/Admin/giris_yap';
-$route['admin/cikis'] = 'admin/Admin/cikis_yap';
+$route['admin'] = 'admin/admin/index';
+$route['admin/index'] = 'admin/admin/index';
+$route['admin/giris'] = 'admin/admin/giris_yap';
+$route['admin/cikis'] = 'admin/admin/cikis_yap';
 //
 $route['default_controller'] = 'Anasayfa';
 $route['anasayfa'] = 'Anasayfa/index';
