@@ -15,7 +15,7 @@ Merhaba arkadaşlar, daha önce blog, itiraf ve film scripti paylaşmıştım. N
 # Açıklama
 Resume/CV sitesi açmak isteyenlere tamamen açık kaynak kodlu uygun bir scripttir. Anasayfa kısmında StartBootstrap tarafından ücretsiz yayınlanan "Blog Home" ve "Blog Post" kullanılmıştır. Admin paneli kısmında StartBootstrap tarafından ücretsiz yayınlanan "SB Admin" kullanılmıştır. Kullanımı son derece basit ve kolaydır. Anasayfada gösterilecek olan yazıların sayısını "Genel Ayarlar" kısmından "Anasayfada görünecek olan yazı sayısı" bölümünü doldurmaları yeterlidir.
 
-# Yönetim paneli bilgileri (demo panel bilgileri için bu adresten iletişime geçebilirsiniz: http://desponres.ml)
+# Yönetim paneli bilgileri (demo panel bilgileri için bu adresten iletişime geçebilirsiniz: https://desponres.github.io/iletisim)
 website.com/admin
 Kullanıcı adı: admin@admin.com
 Şifre: admin.com
@@ -38,7 +38,7 @@ bu alana scriptin kurulu olduğu dizini yazın.
   
   bu alanları kendinize göre doldurunuz. Daha sonra "sql" klasörünün içerisinde bulunan "bdn-cv-scripti.sql" dosyasını phpmyadmin veya herhangi bir sql admin kullanarak oluşturmuş olduğunuz veritabanına import ediniz.
   
-  # Eğer kurulumda bir sorun çıkarsa veya yardımcı olabileceğim bir konu olursa bana sosyal medya adreslerimden ve http://desponres.ml adresinden ulaşabilirsiniz.
+  # Eğer kurulumda bir sorun çıkarsa veya yardımcı olabileceğim bir konu olursa bana sosyal medya adreslerimden ve https://desponres.github.io/iletisim adresinden ulaşabilirsiniz.
   
 # NOTLAR
  Not 1: Eğer kurulumda bir sorun çıkarsa veya yardımcı olabileceğim bir konu olursa bana sosyal medya adreslerimden ulaşabilirsiniz.(Script üzerinde düzenleme - ekleme vs. yapmamaktayım.)
